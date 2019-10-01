@@ -1,0 +1,33 @@
+{
+    "workbench.activityBar.visible": false,
+    "files.autoSave": "off",
+    "workbench.colorTheme": "Default High Contrast",
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.minimap.enabled": false,
+    "editor.overviewRulerBorder": false,
+    "editor.hideCursorInOverviewRuler": true,
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
+    "editor.tabSize": 2,
+    "files.trimFinalNewlines": true,
+    "workbench.sideBar.location": "left",
+    "explorer.confirmDragAndDrop": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "window.zoomLevel": 0,
+    "eslint.options": {
+        "extensions": [".html", ".js", ".vue", ".jsx"]
+    },
+    "eslint.validate": [{
+        "language": "html",
+        "autoFix": true
+    }, {
+        "language": "vue",
+        "autoFix": true
+    }, {
+        "language": "javascript",
+        "autoFix": true
+    }, {
+        "language": "javascriptreact",
+        "autoFix": true
+    }]
+}
