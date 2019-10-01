@@ -1,2 +1,3 @@
 # vcode-config
-Dark minimal Dark config
+
+> VCode minimal Dark config
